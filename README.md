@@ -1,34 +1,44 @@
 # Calculator App
 
+This is a simple Flutter application where I have create a simple calculator UI and also add functionality to this app. So this is an fully working calculator app. For making this app I use provider state management and use math expressions flutter pakage to make app functional.
+
+## Live Site: https://karno786.github.io/Calculator/
 
 
-## Live Site: 
+
+## APP WORKING GIF
+
+<br>
+<br>
+<br>
 
 ## Screenshots:
 
-### 01. APP WORKING GIF
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
 ### 01. APP UI
 
 <img src="screenshots/screenshot.png" width="250">
 <br>
 <br>
 <br>
+
 ### 02. APP UI
 
 <img src="screenshots/screenshot1.png" width="250">
 <br>
 <br>
 <br>
+
 ### 03. APP UI
 
 <img src="screenshots/screenshot2.png" width="250">
 <br>
 <br>
 <br>
+
 ### Disclaimer
 This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user.
 for any query please contact me.
