@@ -13,17 +13,14 @@ This is a simple Flutter application where I have create a simple calculator UI 
 ### 01. APP UI
 
 <img src="screenshots/screenshot.png" width="250">
-<br>
 
 ### 02. APP UI
 
 <img src="screenshots/screenshot1.png" width="250">
-<br>
 
 ### 03. APP UI
 
 <img src="screenshots/screenshot2.png" width="250">
-<br>
 
 ### Disclaimer
 This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user.
