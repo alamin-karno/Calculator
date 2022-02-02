@@ -8,15 +8,10 @@ This is a simple Flutter application where I have create a simple calculator UI 
 
 ## APP WORKING GIF
 
-<br>
-<br>
-<br>
+![git_video](screenshots/screenshot.gif)
 
 ## Screenshots:
 
-<br>
-<br>
-<br>
 
 ### 01. APP UI
 
