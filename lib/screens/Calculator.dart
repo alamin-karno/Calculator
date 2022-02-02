@@ -70,7 +70,7 @@ class Calculator extends StatelessWidget {
                   buttonText: 'AC',
                   buttonColor: Colors.grey[400],
                   textColor: Colors.black,
-                  paddingValue: 18.0,
+                  paddingValue: 25.0,
                 ),
                 CalculatorButton(
                   buttonText: 'C',
@@ -210,7 +210,7 @@ class Calculator extends StatelessWidget {
                   buttonText: "+/-",
                   buttonColor: Colors.grey[850],
                   textColor: Colors.white,
-                  paddingValue: 18.0,
+                  paddingValue: 25.0,
                 ),
                 CalculatorButton(
                   buttonText: '=',
