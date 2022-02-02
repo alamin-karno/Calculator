@@ -4,14 +4,11 @@ This is a simple Flutter application where I have create a simple calculator UI 
 
 ## Live Site: https://karno786.github.io/Calculator/
 
-
-
 ## APP WORKING GIF
 
-![git_video](screenshots/screenshot.gif)
+<img src="screenshots/gif_video.gif" width="250">
 
 ## Screenshots:
-
 
 ### 01. APP UI
 
