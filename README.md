@@ -2,7 +2,7 @@
 
 This is a simple Flutter application where I have create a simple calculator UI and also add functionality to this app. So this is an fully working calculator app. For making this app I use provider state management and use math expressions flutter pakage to make app functional.
 
-## Live Site: https://karno786.github.io/Calculator/
+## Live Site: <a href="https://karno786.github.io/Calculator/" target="_blank">Calculator Site</a>
 
 ## APP WORKING GIF
 
@@ -14,21 +14,15 @@ This is a simple Flutter application where I have create a simple calculator UI 
 
 <img src="screenshots/screenshot.png" width="250">
 <br>
-<br>
-<br>
 
 ### 02. APP UI
 
 <img src="screenshots/screenshot1.png" width="250">
 <br>
-<br>
-<br>
 
 ### 03. APP UI
 
 <img src="screenshots/screenshot2.png" width="250">
-<br>
-<br>
 <br>
 
 ### Disclaimer
